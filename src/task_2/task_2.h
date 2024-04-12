@@ -1,5 +1,5 @@
-#ifndef TASK_1_H
-#define TASK_1_H
+#ifndef TASK_2_H
+#define TASK_2_H
 
 #include <stdio.h>
 #include <math.h>
